@@ -1,0 +1,52 @@
+/* LIGHT MODE */
+
+.container-light-mode{
+    background-color: white;
+    
+}
+
+.button-light-mode{
+    color: white;
+    background-color: #cf3667;
+}
+
+.h1-light-mode{
+    color: black;
+}
+
+
+.h2-light-mode{
+    color: #cf3667;
+} 
+
+.h5-light-mode {
+    color: #697377;
+} 
+
+
+
+/* DARK MODE */
+
+.container-dark-mode{
+    background-color: #282c35;
+    height: 100vh;
+}
+
+.button-dark-mode{
+    color: black;
+    background-color: #f7a8ca;
+}
+
+.h1-dark-mode{
+    color: white;
+}
+
+.h2-dark-mode{
+    color: #f7a8ca;
+}
+
+.h5-dark-mode {
+    color: white;
+}
+
+
